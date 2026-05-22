@@ -1,7 +1,8 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HomeView from './views/HomeView.vue'
+import TodoList from './components/TodoList.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <HomeView />
 </template>
